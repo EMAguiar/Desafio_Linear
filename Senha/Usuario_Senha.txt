@@ -1,0 +1,6 @@
+Usuário do banco: root
+Senha: 123456
+
+Usuário de Login: Admin
+Senha: 123456
+
